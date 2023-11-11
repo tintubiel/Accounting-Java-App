@@ -1,0 +1,7 @@
+month,amount,is_expence
+01,30000,true
+01,49000,false
+02,30000,true
+02,49000,false
+03,30000,true
+03,49000,false

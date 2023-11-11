@@ -1,0 +1,5 @@
+item_name,is_expence,quantity,unit_price
+Холодильник,true,2,10000
+Суповарка,false,1,5000
+Тостер,true,5,2000
+Хлебопечь,false,4,11000
