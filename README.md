@@ -1,0 +1,1 @@
+# Simple accounting console app
